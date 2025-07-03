@@ -1,4 +1,4 @@
-# Agentic AI
+# Langgraph Basics
 
 ## Installation
 
